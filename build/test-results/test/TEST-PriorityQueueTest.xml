@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PriorityQueueTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2020-04-14T08:04:02" hostname="caihechengde-MacBook-Pro.local" time="0.011">
+<testsuite name="PriorityQueueTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2020-04-14T08:24:40" hostname="caihechengde-MacBook-Pro.local" time="0.01">
   <properties/>
   <testcase name="RemoveTest[0]" classname="PriorityQueueTest" time="0.0"/>
   <testcase name="addTest[0]" classname="PriorityQueueTest" time="0.001"/>
   <testcase name="InitTest[0]" classname="PriorityQueueTest" time="0.0"/>
   <testcase name="pollTest[0]" classname="PriorityQueueTest" time="0.002"/>
   <testcase name="InitTest1[0]" classname="PriorityQueueTest" time="0.0"/>
-  <testcase name="RemoveTest[1]" classname="PriorityQueueTest" time="0.0"/>
+  <testcase name="RemoveTest[1]" classname="PriorityQueueTest" time="0.001"/>
   <testcase name="addTest[1]" classname="PriorityQueueTest" time="0.0"/>
   <testcase name="InitTest[1]" classname="PriorityQueueTest" time="0.0"/>
   <testcase name="pollTest[1]" classname="PriorityQueueTest" time="0.0"/>
@@ -16,18 +16,18 @@
   <testcase name="InitTest[2]" classname="PriorityQueueTest" time="0.0"/>
   <testcase name="pollTest[2]" classname="PriorityQueueTest" time="0.0"/>
   <testcase name="InitTest1[2]" classname="PriorityQueueTest" time="0.0"/>
-  <testcase name="RemoveTest[3]" classname="PriorityQueueTest" time="0.0"/>
+  <testcase name="RemoveTest[3]" classname="PriorityQueueTest" time="0.001"/>
   <testcase name="addTest[3]" classname="PriorityQueueTest" time="0.0"/>
   <testcase name="InitTest[3]" classname="PriorityQueueTest" time="0.0"/>
   <testcase name="pollTest[3]" classname="PriorityQueueTest" time="0.0"/>
-  <testcase name="InitTest1[3]" classname="PriorityQueueTest" time="0.001"/>
+  <testcase name="InitTest1[3]" classname="PriorityQueueTest" time="0.0"/>
   <testcase name="RemoveTest[4]" classname="PriorityQueueTest" time="0.0"/>
   <testcase name="addTest[4]" classname="PriorityQueueTest" time="0.0"/>
-  <testcase name="InitTest[4]" classname="PriorityQueueTest" time="0.001"/>
+  <testcase name="InitTest[4]" classname="PriorityQueueTest" time="0.0"/>
   <testcase name="pollTest[4]" classname="PriorityQueueTest" time="0.0"/>
-  <testcase name="InitTest1[4]" classname="PriorityQueueTest" time="0.0"/>
-  <system-out><![CDATA[-50
--38
+  <testcase name="InitTest1[4]" classname="PriorityQueueTest" time="0.001"/>
+  <system-out><![CDATA[-35
+-48
 5
 3
 1
