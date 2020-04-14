@@ -29,7 +29,7 @@ public class PriorityQueueTest {
         return Arrays.asList(new Integer[][]{
                 {ran.nextInt(30)-50,ran.nextInt(30),ran.nextInt(30)},
                 {ran.nextInt(30)-50,ran.nextInt(30),ran.nextInt(30)},
-                {5,10,78},
+                {40,10,78},
                 {3,45,32},
                 {1,50,50}
         });
